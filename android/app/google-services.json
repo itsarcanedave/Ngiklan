@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331412318713",
+    "project_id": "project-ngiklan",
+    "storage_bucket": "project-ngiklan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331412318713:android:ee7d9edfef6f6443c4b528",
+        "android_client_info": {
+          "package_name": "com.arcanedave.ngiklan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331412318713-msagd6bpvts2aifse4mn4r84f10qfp17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcanedave.ngiklan",
+            "certificate_hash": "2052320b35cd87e892f86c20ed88cccb6b45b78a"
+          }
+        },
+        {
+          "client_id": "331412318713-eau3tusrd1rkfeeh5m3ju6q4v5obha64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ljpvswxza3e46aCgtiGnEk4rtU5CxxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331412318713-eau3tusrd1rkfeeh5m3ju6q4v5obha64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
